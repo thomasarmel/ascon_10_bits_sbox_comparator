@@ -1,0 +1,6 @@
+[package]
+name = "ascon_10_bits_sbox_comparator"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
